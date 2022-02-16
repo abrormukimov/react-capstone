@@ -1,12 +1,11 @@
 
 :root {
-  --dark-pink: #d04479;
-  --pink: #ec5096;
+  --dark-pink: #0392cf;
+  --pink: #63ace5;
   --white: #fff;
 }
 
 body {
-  /* margin: 0; */
   font-family:
     -apple-system,
     BlinkMacSystemFont,
@@ -37,15 +36,13 @@ code {
     monospace;
 }
 
-/* app css */
-
 .spinner {
   background-color: var(--dark-pink);
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: yellow;
+  color: #f8f8fa;
 }
 
 .rotateSpinner {
@@ -196,11 +193,9 @@ code {
   margin-top: 10%;
 }
 
-/* indexcss */
-
 .top-body {
   width: 100%;
-  background-color: #e5536c;
+  background-color: #1481b0;
   color: white;
   height: 42px;
 }
@@ -209,7 +204,6 @@ code {
   display: flex;
   margin-top: 9px;
   font-size: 20px;
-  border: solid red 1px;
 }
 
 .cover-img {
@@ -269,7 +263,7 @@ code {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  margin-block: 2%;
+  padding: 10px;
 }
 
 .oddBox h3,
@@ -279,7 +273,8 @@ code {
 
 .evenBox:hover,
 .oddBox:hover {
-  transform: scale(1.05);
+  background: #3b5998;
+  cursor: pointer;
 }
 
 .arrow {
