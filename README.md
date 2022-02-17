@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+#  React Capstone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Companie's Metrics App is single-paged application (SPA) that displays statics of Companies arround the world. The data being showcased was fetched from the `Narrativa_API`. The Home page shows the list of countries that could be filtered with the country name. Details page show detailed data for a selected country. Every page has a unique route within the SPA.
 
-## Available Scripts
+[](https://img.shields.io/badge/Microverse-blueviolet)
 
-In the project directory, you can run:
+## Homepage and Details page
 
-### `npm start`
+<img src="./src/img/ssh1.png" data-canonical-src="./src/img/ssh1.png" width="300" height="500" style="margin-right: 200px"/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="./src/img/screenshot2.png" data-canonical-src="./src/img/screenshot2.png" width="300" height="500" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Built With
 
-### `npm test`
+- React
+- DOM6
+- localStorage
+## Live Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Live Demo Link](https://relaxed-noether-872c40.netlify.app)
 
-### `npm run build`
+## video Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Video Demo Link](https://www.loom.com/share/cbcd06408e1a47d0a075f3e3474555ac)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Author
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👤 **Abror Mukimov**
 
-### `npm run eject`
+- [GitHub](https://github.com/abrormukimov)
+- [Twitter](https://twitter.com/abrormukimov)
+- [LinkedIn](https://www.linkedin.com/in/abror-mukimov/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Getting Started
+- run `npm install` to install all dependencies
+- run `npm start` to run the server
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Web browser
+- Code Editor
+- Live Server Extension
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Cloning the repo to your local system (If you already have git, installed in your system):
 
-## Learn More
+- [Copy this link](git@github.com:abrormukimov/react-capstone.git)
+- Open your terminal or command line
+- Run "git clone [Paste this link](git@github.com:abrormukimov/react-capstone.git)"
+- Open the folder with your code editor
+- Now You can edit the code and check the changes in the browser using Live Server
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Check linter errors:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Install npm
+- For HTML: Run npx hint .
+- For CSS: Run npx stylelint “**/*.css”
+- for javascript Run npx eslint .
 
-### Code Splitting
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contributions, issues, and feature requests are welcome!
 
-### Analyzing the Bundle Size
+Start by:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Forking the project
+- Cloning the project to your local machine
+- cd into the react-capstone project directory
+- Run git checkout -b your-branch-name
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-### Making a Progressive Web App
+Feel free to check the [issues page](https://github.com/abrormukimov/react-capstone/issues), contribute to the Project by creating an issue.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Give a ⭐️ if you like this project!
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Acknowledgments
+- Project inspired by Microverse Program
+- Thanks for this Website Design "Nelson Sakwa on Behance"
