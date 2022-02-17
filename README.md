@@ -4,7 +4,7 @@
 
 # Homepage
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="./src/img/ssh1.png" width="100" height="400" />
+<img src="./src/img/ssh1.png" data-canonical-src="./src/img/ssh1.png" width="300" height="500" />
 
 # Company details page
 
