@@ -4,7 +4,7 @@
 
 # Homepage
 
-![](./src/img/ssh1.png =100x300)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="./src/img/ssh1.png" width="100" height="400" />
 
 # Company details page
 
