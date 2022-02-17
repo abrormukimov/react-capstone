@@ -11,7 +11,7 @@
 - localStorage
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://relaxed-noether-872c40.netlify.app)
 
 ## video Demo
 
