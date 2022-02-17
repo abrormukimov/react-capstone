@@ -2,13 +2,12 @@
 
 [](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Homepage
+## Homepage and Details page
 
-<img src="./src/img/ssh1.png" data-canonical-src="./src/img/ssh1.png" width="300" height="500" />
+<img src="./src/img/ssh1.png" data-canonical-src="./src/img/ssh1.png" width="300" height="500" style="margin-right: 200px"/>
 
-# Company details page
+<img src="./src/img/screenshot2.png" data-canonical-src="./src/img/screenshot2.png" width="300" height="500" />
 
-![](./src/img/screenshot2.png =100x300)
 
 > Companie's Metrics App is single-paged application (SPA) that displays statics of Companies arround the world. The data being showcased was fetched from the `Narrativa_API`. The Home page shows the list of countries that could be filtered with the country name. Details page show detailed data for a selected country. Every page has a unique route within the SPA.
 
