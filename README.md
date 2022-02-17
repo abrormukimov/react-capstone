@@ -4,11 +4,11 @@
 
 # Homepage
 
-![](./src/img/ssh1.png=100x300)
+![](./src/img/ssh1.png =100x300)
 
 # Company details page
 
-![](./src/img/screenshot2.png=100x300)
+![](./src/img/screenshot2.png =100x300)
 
 > Companie's Metrics App is single-paged application (SPA) that displays statics of Companies arround the world. The data being showcased was fetched from the `Narrativa_API`. The Home page shows the list of countries that could be filtered with the country name. Details page show detailed data for a selected country. Every page has a unique route within the SPA.
 
